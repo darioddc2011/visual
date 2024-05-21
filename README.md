@@ -1,2 +1,3 @@
 # visual
-Visula Studio 2022 - Community
+Visual Studio 2022 - Community Edition
+Visual example by Dario
